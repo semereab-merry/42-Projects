@@ -1,0 +1,3 @@
+[submodule "42-piscine"]
+	path = 42-piscine
+	url = https://github.com/semereab-merry/42-piscine
