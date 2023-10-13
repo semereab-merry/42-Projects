@@ -1,3 +1,6 @@
 [submodule "42-piscine"]
 	path = 42-piscine
 	url = https://github.com/semereab-merry/42-piscine
+[submodule "42-ft_printf"]
+	path = 42-ft_printf
+	url = https://github.com/semereab-merry/42-ft_printf
