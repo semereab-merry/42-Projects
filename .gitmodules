@@ -4,3 +4,9 @@
 [submodule "Ft_printf"]
 	path = Ft_printf
 	url = https://github.com/semereab-merry/42-ft_printf
+[submodule "42-get_next_line"]
+	path = 42-get_next_line
+	url = https://github.com/semereab-merry/42-get_next_line
+[submodule "Get_next_line"]
+	path = Get_next_line
+	url = https://github.com/semereab-merry/42-get_next_line
